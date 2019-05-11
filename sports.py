@@ -11,4 +11,6 @@ else:
          print("play koko")
     elif game=='kabbadi':
         print("play kabbadi")
+    if game=='coco':
+        print("play coco")
     print("do work in office")
