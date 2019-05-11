@@ -9,4 +9,6 @@ else:
         print("play vallyball ")
     elif game=='koko':
          print("play koko")
+    elif game=='kabbadi':
+        print("play kabbadi")
     print("do work in office")
