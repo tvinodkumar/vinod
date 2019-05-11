@@ -7,4 +7,6 @@ else:
     game=input("are u vallyball player")
     if game=="yes":
         print("play vallyball ")
+    elif game=='koko':
+         print("play koko")
     print("do work in office")
